@@ -10,7 +10,7 @@ const App = () => {
           <a href="#">Home</a> | 
           <a href="#">Courses</a> | 
           <a href="#">Dashboard</a> | 
-          <a href="#">Login</a>
+          <a href="#">SignIn</a>
         </nav>
       </header>
 
