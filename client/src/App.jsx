@@ -45,7 +45,7 @@ const App = () => {
 
       {/* Footer */}
       <footer>
-        <p>© 2026 LMS System. All rights reserved.</p>
+        <p>© 2026 LMS System. All rights reserved. Samin.Dev</p>
       </footer>
     </div>
   )
