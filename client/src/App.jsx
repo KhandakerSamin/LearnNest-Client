@@ -32,6 +32,7 @@ const App = () => {
           <p>HTML, CSS, JavaScript, React</p>
           <p>Problem Solving </p>
           <p>Ai/ML</p>
+          <p>Data Analyst </p>
         </div>
 
         <div>
