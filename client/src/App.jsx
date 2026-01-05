@@ -38,6 +38,7 @@ const App = () => {
         <div>
           <h3>Programming Basics</h3>
           <p>C, Java, Python fundamentals</p>
+          <p>JavaScript zero to hero</p>
         </div>
 
         <div>
